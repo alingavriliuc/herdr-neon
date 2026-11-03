@@ -73,3 +73,7 @@ The layout also uses Herdr's shipped mods `workspace-chrome`, `agents`,
   `herdr-app do mod.open --name neon-boot`.
 - The layout hides the system title bar. On Linux and Windows, it draws no
   window buttons.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
